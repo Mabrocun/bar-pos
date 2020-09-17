@@ -1,5 +1,5 @@
 # bar-pos
-
+just a exercise for Vue.js
 ## Project setup
 ```
 npm install
