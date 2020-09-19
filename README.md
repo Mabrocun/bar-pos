@@ -1,5 +1,6 @@
 # bar-pos
 just a exercise for Vue.js
+preview: https://mabrocloud.cn/bar-pos/
 ## Project setup
 ```
 npm install
